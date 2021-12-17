@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635576969 source:c:\users\user\desktop\c++\10-30-2021\mod6\main.cpp
+	"DLL.h"
+
+1635578479 c:\users\user\desktop\c++\10-30-2021\mod6\dll.h
+	<iostream>
+
+1635578479 source:c:\users\user\desktop\c++\10-30-2021\mod6\dll.cpp
+	"DLL.h"
+
